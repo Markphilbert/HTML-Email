@@ -6,4 +6,5 @@ This Project was created with:
 Use of HTML Table Formatting
 Use of Inline CSS Styling
 
-This project is hosted on Netlify
+This project is hosted on Netlify.
+Link: https://emailcloneproject-markphilbert.netlify.app/
