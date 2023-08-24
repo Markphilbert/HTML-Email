@@ -27,8 +27,7 @@ Through creating this project I learned how tables work. This was also my first 
 
 <h3>Other Projects</h3>
 <ul>
+<li><a href="https://github.com/Markphilbert/threeJS_Portfolio">ThreeJS Portfolio Site</a></li>  
 <li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
-<li><a href="https://github.com/Markphilbert/ShoesOverflow">HTML Email Clone</a></li>
-<li><a href="https://github.com/Markphilbert/megamanApiApp">Megaman API App</a></li>
-<li><a href="https://github.com/Markphilbert/bucketlist">Bucketlist CRUD App</a></li>
+<li><a href="https://github.com/Markphilbert/ShoesOverflow">ShoesOverflow</a></li>
 </ul>
